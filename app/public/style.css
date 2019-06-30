@@ -1,0 +1,12 @@
+/* 
+    font-family: 'Pompiere', cursive; (header)
+    font-family: 'M PLUS 1p', sans-serif; (body)
+*/
+
+body {
+    font-family: 'M PLUS 1p', sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Pompiere', cursive;
+}

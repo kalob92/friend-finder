@@ -13,6 +13,6 @@ module.exports = function(app) {
     // a POST routes /api/friends this will be used tp handle incoming survey results
     // this route will also be used to handle the compatibility logic
     app.post('/api/friends', function(req, res) {
-
+        console.log(`HEY you're in the POST function that is your last step to finishing this file*~~~`);
     });
 };

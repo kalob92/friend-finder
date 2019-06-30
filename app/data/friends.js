@@ -17,3 +17,104 @@
     ]
 }
 */
+
+var friends = [
+  {
+    "name": "Delphinium",
+    "photo": "",
+    "scores": [
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
+  },
+  {
+    "name": "Lobelia speciosa",
+    "photo": "",
+    "scores": [
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
+  },
+  {
+    "name": "Dianthus",
+    "photo": "",
+    "scores": [
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
+  },
+  {
+    "name": "Helianthus",
+    "photo": "",
+    "scores": [
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
+  },
+  {
+    "name": "Hellebore",
+    "photo": "",
+    "scores": [
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
+  },
+  {
+    "name": "Aquilegia coerulea",
+    "photo": "",
+    "scores": [
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
+  }
+];
+
+module.exports = friends;
